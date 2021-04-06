@@ -1,5 +1,5 @@
 # Phineas-Vulnerable-OS
-Phineas is a vulnerable box to learn some web exploitation
+Phineas is my first vulnerable box, made just to learn some web exploitation. Have fun!
 
 Vulnhub: https://www.vulnhub.com/entry/phineas-1,674/
 
