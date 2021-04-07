@@ -1,4 +1,4 @@
-# Phineas is my first vulnerable box, made just to learn some web exploitation. Have fun!
+# Phineas is my first vulnerable box. An easy GNU/Linux box made to pwn. Can you get root?
 
 **Vulnhub**: https://www.vulnhub.com/entry/phineas-1,674/
 
